@@ -27,6 +27,10 @@
       padding-top: 20px;
     }
 
+.main-section {
+        justify-content: center;
+    }
+
 .main-div {
     background-color: var(--White);
     width: 275px;
