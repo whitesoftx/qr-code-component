@@ -69,6 +69,7 @@ img {
 
     .main-div {
         padding-bottom: 20px;
+          min-height: 98vh;
     }
 
 }
