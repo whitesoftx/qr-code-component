@@ -55,7 +55,7 @@ Surely going to take on more challenges on Fronend Mentor, it's really a recomme
 
 ## Author
 
-- Website - [Ola White Y](https://www.your-site.com)
+- GitHub Profile - [Ola White](https://github.com/whitesoftx)
 - Frontend Mentor - [@whitesoftx](https://www.frontendmentor.io/profile/whitesoftx)
 - Twitter - [@olawhite](https://www.twitter.com/olawhite)
 
